@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-01T08:19:29.069107",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Where is your shop located?"
+    },
+    {
+      "role": "model",
+      "text": "We are located in Kisumu. For specific directions or our exact address, please contact the shop directly."
+    },
+    {
+      "role": "user",
+      "text": "How much does 50kg of rice cost and can you deliver to Meru?"
+    },
+    {
+      "role": "model",
+      "text": "I do not have the pricing for a 50kg bag of rice or information about delivery to Meru. Please contact the shop directly for details on stock, pricing, and delivery options."
+    }
+  ]
+}
